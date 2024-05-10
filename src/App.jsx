@@ -7,7 +7,7 @@ export default function App() {
   return (
     
     <div>
-     Hi
+     Hi Github
     </div>
    
   )
