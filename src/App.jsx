@@ -7,7 +7,8 @@ export default function App() {
   return (
     
     <div>
-     Hi Github
+      <AddTodo/>
+      <Todotable/>
     </div>
    
   )
